@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'AzureKalleBotti'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F9D489637574758A7074E277D1D4B8E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B9CCF1E23D7144928F8E8D290ABDBD09 }}
